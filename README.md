@@ -1,2 +1,2 @@
 # linear-list
-Coursera Data Structure hw
+Coursera Data Structure homework
